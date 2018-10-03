@@ -6,7 +6,7 @@ public class Cash {
 		System.out.println("Enter the cash that cashier has to give");
 		float n;
 		int c=0,c1=0,c2=0,c3=0;
-		Scanner sc=new Scanner(System.in);
+		Scanner sc=new Scanner(System.in);//this is scanner class
 		n=sc.nextFloat();
 		n=n*100;
 		while(n>0) {
