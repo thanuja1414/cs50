@@ -1,7 +1,7 @@
 package android;
 import java.util.Scanner;
 public class Cash {
-
+// vankay garu naa peru tharun andi
 	public static void main(String[]args) {
 		System.out.println("Enter the cash that cashier has to give");
 		float n;
